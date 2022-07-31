@@ -24,3 +24,4 @@ If you have any issues with any of my software (idk why you're using it, but tha
 
 I'm also really bored like 90% of the time, so if you need any help with any project, just email me, and i'll try my best to help!
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=notsomeidiot123&amp;border_color=2E343B&amp;bg_color=0D1117&amp;text_color=8B949E&amp;title_color=FFFFFF&amp;show_icons=true&amp;icon_color=8B949E&amp;count_private=true#gh-dark-mode-only">
