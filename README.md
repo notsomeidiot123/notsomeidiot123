@@ -20,7 +20,7 @@ As seen in my bio, I am a highschool student and I love low-level, close-to-hard
 
 Im currently working on KiminoOS, a 32-bit operating system based off of my C# .NET concept, CLIOS, which can be found [here](https://github.com/notsomeidiot123/kiminoos)
 
-If you have any issues with any of my software (idk why you're using it, but thank you :heart:!) email me @ notsomeidiot123.git@gmail.com! I'll gladly try to fix any bugs that are reported there. 
+If you have any issues with any of my software (idk why you're using it, but thank you :heart:!) email me @ kiminosei321@gmail.com! I'll gladly try to fix any bugs that are reported there. 
 
 I'm also really bored like 90% of the time, so if you need any help with any project, just email me, and i'll try my best to help!
 
