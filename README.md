@@ -14,13 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Pronouns: she/they
+### Pronouns: she/her
 
-As seen in my bio, I am a highschool student and I love low-level, close-to-hardware programming!
+I am a student and freelancer, and I love low-level, close-to-hardware programming!
 
-Im currently working on EdenOS, an operating system based off of my C# .NET concept, CLIOS, which can be found [here](https://github.com/notsomeidiot123/clios)
-
-I am also working on a DOS-like project 
+Im currently working on Kimi's OS, an operating system based off of my C# .NET concept, CLIOS, which can be found [here](https://github.com/notsomeidiot123/clios)
 
 If you have any issues with any of my software (idk why you're using it, but thank you :heart:!) email me @ kiminosei321@gmail.com! I'll gladly try to fix any bugs that are reported there. 
 
