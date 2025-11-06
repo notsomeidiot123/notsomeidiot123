@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I am a college student and hobbyist, and I love low-level, close-to-hardware programming!
 
-Im currently working on Kimi's OS, an x86 modular operating system, found (here)[https://github.com/notsomeidiot123/kimisos]
+Im currently working on Kimi's OS, an x86 modular operating system, found [here](https://github.com/notsomeidiot123/kimisos)
 
 If you have any issues with any of my software (idk why you're using it, but thank you :heart:!) email me @ kiminosei321@gmail.com! I'll gladly try to fix any bugs that are reported there. 
 
